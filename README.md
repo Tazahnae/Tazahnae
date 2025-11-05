@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- 🌻 Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tazahnae/Tazahnae/main/A_digital_graphic_design_banner_features_Tazahnae_.png" width="100%" alt="Tazahnae 'Taaj' Matthews GitHub Banner"/>
 </p>
@@ -12,7 +12,7 @@
 ## 🌟 About Me  
 Hey there 👋🏽 I’m **Tazahnae “Taaj” Matthews**  just a Jersey girl with a laptop, a vision, and a drive to turn ideas into impact. 💻✨  
 
-I’m obsessed with how **technology and people** connect — how secure systems, strong data, and organized workflows can change lives (and sometimes even save them).  
+I’m obsessed with how **technology and people** connect , while also teaching them  how  to secure systems, strong data, and organized workflows can change lives (and sometimes even save them).  
 
 Right now, I’m leveling up in **cybersecurity and IT program management**, while blending my background in **health services** and **community tech education**.  
 
