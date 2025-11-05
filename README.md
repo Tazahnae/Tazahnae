@@ -1,4 +1,4 @@
-<!-- 🌻 Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tazahnae/Tazahnae/main/A_digital_graphic_design_banner_features_Tazahnae_.png" width="100%" alt="Tazahnae 'Taaj' Matthews GitHub Banner"/>
 </p>
@@ -10,38 +10,38 @@
 ---
 
 ## 🌟 About Me  
-Hey there 👋🏽 I’m **Tazahnae “Taaj” Matthews** just a Jersey girl with a laptop, a dream, and a plan to make tech look a little more human 🌻  
+Hey there 👋🏽 I’m **Tazahnae “Taaj” Matthews**  just a Jersey girl with a laptop, a vision, and a drive to turn ideas into impact. 💻✨  
 
-I’m obsessed with how **technology and people** connect — how organized systems, data security, and a touch of creativity can make everything flow smoother.  
+I’m obsessed with how **technology and people** connect — how secure systems, strong data, and organized workflows can change lives (and sometimes even save them).  
 
-Right now, I’m leveling up in **cybersecurity** and **IT program management**, while blending my background in **health services** and **community tech education**.  
+Right now, I’m leveling up in **cybersecurity and IT program management**, while blending my background in **health services** and **community tech education**.  
 
 💚 I believe tech should feel *human*, and that even the smallest spark of curiosity can grow into something powerful.  
 
-When I’m not studying or building, you’ll catch me:  
-🌼 Dreaming up youth tech programs in Newark  
-☕ Planning my future café-and-cyber hub  
-💡 Mapping out my next career move  
-🎶 Vibing to R&B while debugging something at 2 AM  
+When I’m not studying or building, I’m probably:  
+🌼 Brainstorming projects for Newark youth with STEAM for Me  
+☕ Dreaming up a café-and-cyber hub concept  
+💡 Writing my next personal success plan  
+🎶 Vibing to R&B playlists while debugging something at 2 AM  
 
 ---
 
 ## ⚙️ Current Focus  
 - 🌩 Studying for **CompTIA Security+** (Target 2025)  
-- 🧭 Completing **IT Program Management Certificate** (LinkedIn Learning)  
+- 🧭 Completing **IT Program Management Certification** (LinkedIn Learning)  
 - 🛠 Building cyber labs in **AWS**, **VirtualBox**, and **pfSense**  
-- 💬 Empowering women and students to explore STEM  
+- 💬 Mentoring and creating access for women in tech  
 
 ---
 
 ## 💼 Featured Projects
 | 🌐 Project | Description | Tech / Tools |
 |------------|--------------|---------------|
-| **[✨ Live Resume](https://tazahnae.github.io/Tazahnae-s-Resume-/)** | Olive-and-gold personal site blending tech + management experience. | HTML5, CSS3, GitHub Pages |
-| **AWS Passwordless Auth + SOC Simulation** | Built secure login with AWS Cognito (WebAuthn + MFA) and SOC monitoring. | AWS, Cognito, IAM |
-| **Cyber Training Range Lab** | Virtual security lab using Kali Linux + Metasploitable 2. | VirtualBox, Linux |
-| **Public Buildings KPI Automation** | Automated complaint + KPI reporting system for city operations. | Quickbase, Excel |
-| **Tech Farmers STEAM Sandbox** | Created 5-level coding curriculum for Newark youth. | Python, GitHub Codespaces |
+| **[✨ Live Resume](https://tazahnae.github.io/Tazahnae-s-Resume-/)** | A bold olive-and-gold resume site blending my tech & management experience. | HTML5, CSS3 |
+| **AWS Passwordless Auth + SOC Simulation** | Designed secure login with AWS Cognito (WebAuthn + MFA) and SOC monitoring. | AWS, Cognito, IAM |
+| **Cyber Training Range Lab** | Created a virtual security range with Kali Linux + Metasploitable2. | VirtualBox, Linux |
+| **Public Buildings KPI Automation** | Automated municipal complaint & KPI tracking workflows. | Quickbase, Excel |
+| **Tech Farmers STEAM Sandbox** | Built 5-level youth coding curriculum hosted on GitHub Codespaces. | Python, Web Dev |
 
 ---
 
@@ -68,7 +68,7 @@ When I’m not studying or building, you’ll catch me:
 ---
 
 ## 🐍 Optional Snake Animation  
-After you set up the workflow below, include this anywhere in your README:
+To add:  
 ```md
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tazahnae/Tazahnae/output/snake.svg" alt="snake animation"/>
