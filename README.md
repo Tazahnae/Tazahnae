@@ -1,12 +1,19 @@
 <!-- 🌻 Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tazahnae/Tazahnae/main/A_digital_graphic_design_banner_features_Tazahnae_.png" width="100%" alt="Tazahnae 'Taaj' Matthews GitHub Banner"/>
+  <img src="https://raw.githubusercontent.com/Tazahnae/Tazahnae/main/github.png" width="100%" alt="Tazahnae 'Taaj' Matthews GitHub Banner"/>
 </p>
 
+<!-- 🌻 Animated Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F0E68C&center=true&vCenter=true&width=850&lines=🌻+Hey%2C+I'm+Tazahnae+%22Taaj%22+Matthews!;Just+a+girl+with+a+tech+dream+and+a+vision+to+build.;Health+Tech+.+Cybersecurity+.+Community+.+Glow+Up." alt="Typing animation" />
 </p>
 
+<!-- 🌻 Profile Badges -->
+<p align="center">
+  <a href="mailto:t.matthews@steamforme.org"><img src="https://img.shields.io/badge/Email-t.matthews%40steamforme.org-olive?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tazahnae-matthews-347124190"><img src="https://img.shields.io/badge/LinkedIn-Tazahnae%20Matthews-gold?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://tazahnae.github.io/Tazahnae-s-Resume-/"><img src="https://img.shields.io/badge/Portfolio-Live%20Resume-808000?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+</p>
 ---
 
 ## 🌟 About Me  
