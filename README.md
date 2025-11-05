@@ -74,9 +74,6 @@ When I’m not studying or building, I’m probably:
 
 ---
 
-## 🐍 Optional Snake Animation  
-To add:  
-```md
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tazahnae/Tazahnae/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Tazahnae/Tazahnae/output/snake.svg" alt="Snake animation" />
 </p>
